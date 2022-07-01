@@ -11,3 +11,13 @@ yarn
 ```
 yarn serve
 ```
+
+or
+
+```
+npm install
+```
+
+```
+npm run serve
+```
