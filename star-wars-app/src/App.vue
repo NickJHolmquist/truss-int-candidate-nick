@@ -1,10 +1,8 @@
 <template>
-  <div id="app">
-    <nav>
-      <router-link to="/">Home</router-link>
-    </nav>
+  <v-app id="app">
+    <h1>Star Wars Planet Data</h1>
     <router-view></router-view>
-  </div>
+  </v-app>
 </template>
 
 <style>
